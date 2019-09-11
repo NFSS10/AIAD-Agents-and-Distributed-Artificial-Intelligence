@@ -1,0 +1,12 @@
+MAS firefight {
+
+ infrastructure: Centralised
+
+    environment: logic.env.RegionEnv
+
+    agents:
+        firefighter #6;
+        tower #1;
+        individual #4;
+       
+}
